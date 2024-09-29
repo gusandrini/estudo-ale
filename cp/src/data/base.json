@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "Carla",
+        "função":" mãe",
+        "hobby": "amar seu genro"
+    },
+    {
+        "id": 2,
+        "nome": "Valter",
+        "função":" pai",
+        "hobby": "amar seu genro"
+    },
+    {
+        "id": 3,
+        "nome": "Mafe",
+        "função":" filha 2",
+        "hobby": "amar seu cu"
+    },
+    {
+        "id": 4,
+        "nome": "Carol",
+        "função":" filha 3",
+        "hobby": "amar seu cunhado"
+    },
+    {
+        "id": 5,
+        "nome": "Clarinha vulgo VIDOCA",
+        "função":" filha 1 ou minha namorada",
+        "hobby": "amar seu namorado pois ele é incrível e fazer tudo para ele"
+    }
+]
